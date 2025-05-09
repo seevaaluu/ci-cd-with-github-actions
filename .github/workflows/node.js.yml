@@ -2,7 +2,7 @@ name: Deployando nuestras primeras actions de Github
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   platzi: 
